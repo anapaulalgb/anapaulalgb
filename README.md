@@ -1,11 +1,23 @@
 # 👩🏻‍💻 Ana Paula Lopes
 
-**`Desenvolvedora Front-end`**
+# Olá, eu sou Ana Paula Lopes 👋
 
-Sou Ana Paula Lopes, estudante de Análise e Desenvolvimento de Sistemas e também curso Desenvolvimento Web e Mobile como formação técnica complementar. Gosto de aprender novas tecnologias e transformar ideias em projetos práticos, que unam boa usabilidade, design e propósito. Sou dedicada, curiosa e sempre busco evoluir um pouco mais a cada desafio.
+Sou desenvolvedora front-end em formação contínua, com foco em criar interfaces modernas, responsivas e bem organizadas.
 
+Atualmente estudo Desenvolvimento Web e Mobile, com prática em HTML, CSS, JavaScript, React e Python. Tenho interesse em front-end, UI, usabilidade e projetos que transformem ideias em soluções reais.
 
+## Tecnologias que estou estudando
 
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Python
+- Git e GitHub
+
+## Em evolução
+
+Estou construindo uma rotina de estudos e commits semanais para documentar minha evolução na área de tecnologia.
 ---
 
 ### 🤖 Linguagens e Tecnologias
